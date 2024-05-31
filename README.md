@@ -21,17 +21,11 @@ I am an active member at [Comillas-ICAI University](https://www.comillas.edu/en/
   + A tangible user interface to simulate mobility flows in cities: [Bord](https://github.com/iit-asi/board)
   + A plug-and-play Augmented Reality library for Python: [Armor](https://github.com/The-Hidden-Gallery/ARMOR)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=163vQViKXmU" target="_blank">
-        <img src="https://img.youtube.com/vi/163vQViKXmU/0.jpg" alt="ARMOR" width="240" height="180" border="0" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=N0kUV5aIAhQ" target="_blank">
-        <img src="https://img.youtube.com/vi/N0kUV5aIAhQ/0.jpg" alt="BORD" width="240" height="180" border="0" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=163vQViKXmU" target="_blank">
+    <img src="https://img.youtube.com/vi/163vQViKXmU/0.jpg" alt="ARMOR" width="240" height="180" border="0" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=N0kUV5aIAhQ" target="_blank">
+    <img src="https://img.youtube.com/vi/N0kUV5aIAhQ/0.jpg" alt="BORD" width="240" height="180" border="0" />
+  </a>
+</p>
