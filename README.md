@@ -16,21 +16,21 @@ I also enjoy exploring the visual latent representations of VLMs using methodolo
   <img src=https://github.com/nachoDRT/VrDU-Doctor/blob/main/figs/embeddings_animation_PCA_Donut.gif alt="Donut embeddings space" width="300" />
 </p>
 
-### PhD summary
+### PhD summary 🛠️
 
 | Module                         | Description | Paper |
 |------------------------------|--------------|----------|
 | [MERIT Dataset](https://github.com/nachoDRT/MERIT-Dataset)     | Photorrealistic synthetic pipeline and dataset for V-rDU | [Pattern Recogntion](https://www.sciencedirect.com/science/article/pii/S0031320325011653) and [ArXiv](https://arxiv.org/abs/2409.00447)|
 |[VERSE](https://github.com/nachoDRT/VrDU-Doctor)|A methodology to explore/exploit visual embeddigns| on ArXiv soon|
-|[RE-VERSE](https://github.com/nachoDRT/RE-VERSE)|Target sample generation (WIP)| WIP|
+|[RE-VERSE](https://github.com/nachoDRT/RE-VERSE)|Target sample generation (WIP 🛠️)| WIP 🛠️|
 
 
 
-### Teaching
+### Teaching 📚
 [Computer Vision Lab](https://github.com/nachoDRT/CVI-ICAI) @ [ICAI](https://www.comillas.edu/en/icai/)
 
 
-### Contact
+### Contact 🤜🤛
 
 | Platform                         | User |
 |------------------------------|--------------|
