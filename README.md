@@ -13,7 +13,7 @@ I like using Blender to generate datasets like the [MERIT Dataset](https://githu
 I also enjoy exploring the visual latent representations of VLMs using methodologies like [VERSE](https://huggingface.co/spaces/de-Rodrigo/Embeddings)
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <img src=https://github.com/nachoDRT/VrDU-Doctor/blob/main/figs/embeddings_animation_PCA_Donut.gif alt="Donut embeddings space" width="630" />
+  <img src=https://github.com/nachoDRT/VrDU-Doctor/blob/main/figs/embeddings_animation_PCA_Donut.gif alt="Donut embeddings space" width="300" />
 </p>
 
 ### PhD summary
