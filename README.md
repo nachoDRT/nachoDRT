@@ -1,31 +1,39 @@
 ## Hi there! 👋
 
 ### About me 👨‍💻
-I am Nacho de Rodrigo, a PhD student at the [Institute for Research in Engineering](https://www.iit.comillas.edu/index.php.en). My PhD topic is synthetic image generation, which involves generating images in controlled environments to obtain multimodal datasets. With these datasets, I can train Deep Learning Models and solve problems where data is scarce, detect biases in Large Language Models, or provide deeper explainability for AI.
+I am Nacho de Rodrigo, a PhD student at the [IIT-Madrid](https://www.iit.comillas.edu/index.php.en). I work on synthetic image generation, multimodal datasets and VLMs. 
 
-Here you can find an example from my last research project: [the MERIT-Dataset](https://github.com/nachoDRT/MERIT-Dataset)
+
+I like using Blender to generate datasets like the [MERIT Dataset](https://github.com/nachoDRT/MERIT-Dataset)
 
 <p align="center" style="margin-top: 50px; margin-bottom: 50px;">
-  <img src=https://github.com/nachoDRT/MERIT-Dataset/blob/main/src/blender_mod/blender-mod.gif alt="Blender Cloth Simulation" width="630" />
+  <img src=https://github.com/nachoDRT/MERIT-Dataset/blob/main/src/blender_mod/blender-mod.gif alt="Blender cloth simulation" width="630" />
 </p>
 
+I also enjoy exploring the visual latent representations of VLMs using methodologies like [VERSE](https://huggingface.co/spaces/de-Rodrigo/Embeddings)
 
-### Teaching/Supervising 👨‍🏫
-I am an active member at [Comillas-ICAI University](https://www.comillas.edu/en/icai/), working with undergrad students on different topics:
-
-+ **📚 I teach laboratory sessions on Introduction to Computer Vision**. You can find some of my student's projects here:
-  + A basketball points counter: [PI-Basketball](https://github.com/miguel-ara/RaspberryPI_Basketball_CV)
-  + A human-computer pattern communication: [Wandavision](https://github.com/winoo19/wandavision)
-+ **👀 I supervise scholarships and bachelor/master's theses**. You can find some of the projects I have supervised here:
-  + A dataset and fine-tuned LLM to summarize phone calls: [Call-Sum](https://github.com/CICLAB-Comillas/CallSum)
-  + A tangible user interface to simulate mobility flows in cities: [Bord](https://github.com/iit-asi/board)
-  + A plug-and-play Augmented Reality library for Python: [Armor](https://github.com/The-Hidden-Gallery/ARMOR)
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=163vQViKXmU" target="_blank">
-    <img src="https://img.youtube.com/vi/163vQViKXmU/0.jpg" alt="ARMOR" width="240" height="180" border="0" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=N0kUV5aIAhQ" target="_blank">
-    <img src="https://img.youtube.com/vi/N0kUV5aIAhQ/0.jpg" alt="BORD" width="240" height="180" border="0" />
-  </a>
+<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
+  <img src=https://github.com/nachoDRT/VrDU-Doctor/blob/main/figs/embeddings_animation_PCA_Donut.gif alt="Donut embeddings space" width="630" />
 </p>
+
+### PhD summary
+
+| Module                         | Description | Paper |
+|------------------------------|--------------|----------|
+| [MERIT Dataset](https://github.com/nachoDRT/MERIT-Dataset)     | Photorrealistic synthetic pipeline and dataset for V-rDU | [Pattern Recogntion](https://www.sciencedirect.com/science/article/pii/S0031320325011653) and [ArXiv](https://arxiv.org/abs/2409.00447)|
+|[VERSE](https://github.com/nachoDRT/VrDU-Doctor)|A methodology to explore/exploit visual embeddigns| on ArXiv soon|
+|[RE-VERSE](https://github.com/nachoDRT/RE-VERSE)|Target sample generation (WIP)| WIP|
+
+
+
+### Teaching
+[Computer Vision Lab](https://github.com/nachoDRT/CVI-ICAI) @ [ICAI](https://www.comillas.edu/en/icai/)
+
+
+### Contact
+
+| Platform                         | User |
+|------------------------------|--------------|
+| Hugging Face 🤗|[de-rodrigo](https://huggingface.co/de-Rodrigo)|
+| Google Scholar 📄|[I de Rodrigo](https://scholar.google.es/citations?user=ydRrMnMAAAAJ&hl=es&oi=sra)|
+| LinkedIn 💭| [ignacio-drt](https://www.linkedin.com/in/ignacio-drt/)|
