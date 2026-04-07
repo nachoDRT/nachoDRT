@@ -21,7 +21,7 @@ I also enjoy exploring the visual latent representations of VLMs using methodolo
 | Module                         | Description | Paper |
 |------------------------------|--------------|----------|
 | [MERIT Dataset](https://github.com/nachoDRT/MERIT-Dataset)     | Photorrealistic synthetic pipeline and dataset for V-rDU | [Pattern Recogntion](https://www.sciencedirect.com/science/article/pii/S0031320325011653) and [arXiv](https://arxiv.org/abs/2409.00447)|
-|[VERSE](https://github.com/nachoDRT/VrDU-Doctor)|A methodology to explore/exploit visual embeddigns| on [arXiv](https://arxiv.org/abs/2601.05125)|
+|[VERSE](https://github.com/nachoDRT/VrDU-Doctor)|A methodology to explore/exploit visual embeddigns| [arXiv](https://arxiv.org/abs/2601.05125)|
 |[RE-VERSE](https://github.com/nachoDRT/RE-VERSE)|Target sample generation (WIP 🛠️)| WIP 🛠️|
 
 
